@@ -1,0 +1,11 @@
+.browse-text {
+  font-size: 160px;
+  letter-spacing: -12.8px;
+  line-height: 136px;
+}
+
+.greeting-section-container {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+}
